@@ -1,0 +1,39 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 559px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: "B612 Mono";
+  width: 454px;
+  margin: 51px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: "B612 Mono";
+  font-size: 3.75rem;
+  margin: 51px 92px 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none none solid;
+  font-size: 3rem;
+  margin: 81px auto 44px 0;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.5rem;
+  }
+}
